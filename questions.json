@@ -1,0 +1,242 @@
+{
+  "questions": [
+    {
+      "question": "AWS Elastic Beanstalk is a service that manages web infrastructure.",
+      "options": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Which AWS service reduces network latency?",
+      "options": ["Elastic Load Balancing", "AWS Transit Gateway", "AWS Direct Connect", "Amazon CloudFront"],
+      "correct_answer": "Amazon CloudFront"
+    },
+    {
+      "question": "What kind of database is AWS DynamoDB?",
+      "options": ["NoSQL database", "Relational database", "Document database"],
+      "correct_answer": "NoSQL database"
+    },
+    {
+      "question": "What is AWS EC2?",
+      "options": [
+        "AWS EC2 is a virtual server in the AWS Cloud",
+        "AWS EC2 is a data center",
+        "AWS EC2 is a resource monitoring service",
+        "AWS EC2 is a serverless compute service"
+      ],
+      "correct_answer": "AWS EC2 is a virtual server in the AWS Cloud"
+    },
+    {
+      "question": "AWS Regions is part of the AWS Global Infrastructure.",
+      "options": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Which Amazon S3 storage class has the lowest cost?",
+      "options": ["S3 Standard", "S3 Intelligent-Tiering", "S3 Glacier Deep Archive"],
+      "correct_answer": "S3 Glacier Deep Archive"
+    },
+    {
+      "question": "What is AWS EFS?",
+      "options": ["AWS Efficient File System", "AWS Enterprise File System", "AWS Elastic File System"],
+      "correct_answer": "AWS Elastic File System"
+    },
+    {
+      "question": "What are Edge Locations?",
+      "options": [
+        "Data centers that store petabytes of data",
+        "Physical hard drives",
+        "AWS Regions",
+        "Data centers that deliver data fast to the users"
+      ],
+      "correct_answer": "Data centers that deliver data fast to the users"
+    },
+    {
+      "question": "Denial-of-Service (DoS) attack comes from different sources.",
+      "options": ["True", "False"],
+      "correct_answer": "False"
+    },
+    {
+      "question": "What is the purpose of AWS Organizations service?",
+      "options": [
+        "AWS Organizations helps you manage multiple AWS Accounts",
+        "AWS Organizations optimizes your system performance",
+        "AWS Organizations organizes your services and makes service usage reports",
+        "AWS Organizations groups your applications and manages them"
+      ],
+      "correct_answer": "AWS Organizations helps you manage multiple AWS Accounts"
+    },
+    {
+      "question": "Which of the following is an AWS Migration Strategy?",
+      "options": ["Replatforming", "Governance", "Auditability"],
+      "correct_answer": "Replatforming"
+    },
+    {
+      "question": "Which perspective of the AWS Cloud Adoption Framework focuses on minimizing the business risks?",
+      "options": ["Business Perspective", "People Perspective", "Operations Perspective", "Governance Perspective"],
+      "correct_answer": "Governance Perspective"
+    },
+    {
+      "question": "Which pillar of the AWS Well-Architected Framework focuses on recovering from service or infrastructure disruptions?",
+      "options": ["Reliability", "Performance Efficiency", "Operational Excellence"],
+      "correct_answer": "Reliability"
+    },
+    {
+      "question": "Economies of scale continually reduce AWS Cloud pricing.",
+      "options": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Which service sends and receives messages between application components?",
+      "options": ["AWS Lambda", "AWS Snowmobile", "AWS CloudTrail", "AWS Simple Queue Service (AWS SQS)"],
+      "correct_answer": "AWS Simple Queue Service (AWS SQS)"
+    },
+    {
+      "question": "Who is responsible for managing storage and database in AWS Cloud?",
+      "options": ["Customers", "AWS"],
+      "correct_answer": "AWS"
+    },
+    {
+      "question": "AWS Artifact is a service that provides access to AWS security and compliance reports.",
+      "options": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Which AWS service helps you create users and provide them security access?",
+      "options": ["AWS Identity and Access Management (IAM)", "AWS Redshift", "AWS Direct Connect", "AWS CloudFormation"],
+      "correct_answer": "AWS Identity and Access Management (IAM)"
+    },
+    {
+      "question": "Which AWS service helps you build text chatbots?",
+      "options": ["Amazon Lex", "Amazon Polly", "Amazon Comprehend", "Amazon Transcribe"],
+      "correct_answer": "Amazon Lex"
+    },
+    {
+      "question": "Can all accounts of an AWS Organization be billed with a single bill?",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
+    },
+    {
+      "question": "Which database is ideal for large organizations and enterprises?",
+      "options": ["Amazon Aurora", "MySQL", "PostgreSQL"],
+      "correct_answer": "Amazon Aurora"
+    },
+    {
+      "question": "If an instance store reboots, does the data in the instance persist?",
+      "options": ["Yes", "No"],
+      "correct_answer": "No"
+    },
+    {
+      "question": "Which sentence best describes AWS CloudWatch?",
+      "options": [
+        "CloudWatch monitors your account and recommends you cost optimization and performance improvement actions.",
+        "CloudWatch is a monitoring service that monitors your resources, and configures automatic alarms.",
+	"CloudWatch is a service tha logs your AWS environment Actions. It is used to create events that describe how your application is being used."
+      ],
+      "correct_answer": "CloudWatch is a monitoring service that monitors your resources, and configures automatic alarms."
+    },
+    {
+      "question": "What does AWS Shield protect from?",
+      "options": ["Dos and DDoS attacks", "Software vulnerabilities", "Infrastructure threats"],
+      "correct_answer": "Dos and DDoS attacks"
+    },
+    {
+      "question": "Based on application's network requests, AWS Web Application Firewall can block network traffic.",
+      "options": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Which AWS service manages encryption and decryption of data?",
+      "options": ["AWS Key Management Service (AWS KMS)", "AWS WAF", "AWS GuardDuty", "AWS Inspector"],
+      "correct_answer": "AWS Key Management Service (AWS KMS)"
+    },
+    {
+      "question": "Which of the following is true about AWS S3?",
+      "options": ["It is a data lake service", "It is a distributed storage service", "It is a secure cloud-based storage service"],
+      "correct_answer": "It is a secure cloud-based storage service"
+    },
+{
+      "question": "AWS Elastic Block Store Snapshot is:",
+      "options": ["Incremental data backup", "Differential data backup", "Full data backup"],
+      "correct_answer": "Incremental data backup"
+    },
+    {
+      "question": "Which AWS storage service is designed to transfer petabytes of data in and out of the cloud?",
+      "options": ["AWS Snowmobile", "AWS Redshift", "AWS S3"],
+      "correct_answer": "AWS Snowmobile"
+    },
+    {
+      "question": "Which tool lets you visualize and manage your AWS costs?",
+      "options": ["AWS Price Calculator", "AWS Cost Explorer", "AWS Budgets"],
+      "correct_answer": "AWS Cost Explorer"
+    },
+    {
+      "question": "What is an IAM Policy?",
+      "options": [
+        "IAM Policy is a document that customizes user permissions for AWS services and resources",
+        "IAM Policy is an entity that interacts with AWS resources or services",
+        "IAM Policy is a temporary access to AWS services or resources"
+      ],
+      "correct_answer": "IAM Policy is a document that customizes user permissions for AWS services and resources"
+    },
+    {
+      "question": "How is called a service that lets you run code without needing to think about servers?",
+      "options": ["AWS Serverless", "AWS Lambda", "AWS ECS", "AWS EC2 Auto Scaling"],
+      "correct_answer": "AWS Lambda"
+    },
+    {
+      "question": "DNS stands for 'Data Name System'.",
+      "options": ["True", "False"],
+      "correct_answer": "False"
+    },
+    {
+      "question": "Who is responsible for managing platform and customer data in the AWS Cloud?",
+      "options": ["Customers", "AWS"],
+      "correct_answer": "Customers"
+    },
+    {
+      "question": "Which AWS database service provided historical data of your application changes?",
+      "options": ["AWS Quantum Ledger Database", "AWS Neptune", "AWS ElastiCache", "AWS DocumentDB"],
+      "correct_answer": "AWS Quantum Ledger Database"
+    },
+    {
+      "question": "What is AWS DynamoDB Accelerator capable of?",
+      "options": [
+        "Improves read times of non-relational data",
+        "Improves write times of documents",
+        "Improves read times of relational data",
+        "Improves visualization times of graphs"
+      ],
+      "correct_answer": "Improves read times of non-relational data"
+    },
+    {
+      "question": "Which AWS service do you need to use to get complete history of user activity?",
+      "options": ["AWS CloudWatch", "AWS TrustedAdvisor", "AWS CloudTrail"],
+      "correct_answer": "AWS CloudTrail"
+    },
+    {
+      "question": "What does AWS Marketplace allow you to do?",
+      "options": [
+        "AWS Marketplace lets you see the cost analysis of all AWS Cloud Services",
+        "AWS Marketplace lets you list all AWS Cloud Services",
+        "AWS Marketplace lets you list and sell software"
+      ],
+      "correct_answer": "AWS Marketplace lets you list and sell software"
+    },
+    {
+      "question": "Containers are an essential concept in microservice architectures.",
+      "options": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "With AWS EC2 you only pay for the compute time that you use.",
+      "options": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Which service helps you reduce development time and complexity of Machine Learning (ML)?",
+      "options": ["AWS SageMaker", "AWS Redshift", "AWS Lex", "AWS Elastic Beanstalk"],
+      "correct_answer": "AWS SageMaker"
+    }
+  ]
+}
+
